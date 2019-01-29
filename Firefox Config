@@ -56,8 +56,6 @@ network.prefetch-next;false
 
 nglayout.enable_drag_images;false
 
-privacy.resistFingerprinting;true
-
 privacy.trackingprotection.enabled;true
 
 reader.parse-on-load.enabled;false

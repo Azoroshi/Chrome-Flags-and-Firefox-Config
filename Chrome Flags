@@ -63,5 +63,5 @@ Enable LayoutNG: Enabled
 Blink Heap Unified Garbage Collection: Enabled
 
 
-# Desktop Icon Properties
+# Desktop/Taskbar Icon Properties
 Target: "C:\Program Files (x86)\Google\Chrome Dev\Application\chrome.exe" --enable-native-gpu-memory-buffers --disable-infobars

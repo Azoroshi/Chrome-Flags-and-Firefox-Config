@@ -54,6 +54,8 @@ network.predictor.enable-prefetch;true
 
 network.prefetch-next;false
 
+nglayout.enable_drag_images;false
+
 privacy.resistFingerprinting;true
 
 privacy.trackingprotection.enabled;true

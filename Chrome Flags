@@ -1,1 +1,67 @@
+# Chrome Flags
+Flags are listed in the order they appear, not alphabetically
 
+These flags are from the Chrome Dev channel
+
+
+Override software rendering list: Enabled
+
+Enable draw occlusion: Enabled
+
+Negotiation with GCM cipher suites for SRTP in WebRTC: Enabled
+
+Negotiation with encrypted header extensions for SRTP in WebRTC: Enabled
+
+Anonymize local IPs exposed by WebRTC.: Enabled
+
+Force PNaCl Subzero: Enabled
+
+Smooth Scrolling: Enabled
+
+Save Page as MHTML: Enabled
+
+Experimental QUIC protocol: Enabled
+
+WebAssembly baseline compiler: Enabled
+
+WebAssembly threads support.: Enabled
+
+Experimental enabled SharedArrayBuffer support in JavaScript.: Enabled
+
+V8 Orinoco garbage collection features: Enabled
+
+GPU rasterization: Enabled
+
+Zero-copy rasterizer: Enabled
+
+Number of raster threads: 4
+
+New style notification: Disabled
+
+Memory coordinator: Enabled
+
+Reduce default 'referer' header granularity.: Enabled
+
+Brotli Content-Encoding.: Enabled
+
+Automatic tab discarding: Disabled
+
+FontCache scaling: Enabled
+
+NoState Prefetch: Enabled
+
+Custom-drawn Windows 10 Titlebar: Disabled
+
+Autoplay policy: Document user avtivation is required.
+
+Sound content setting: Disabled
+
+Block tab-unders: Enabled
+
+Enable LayoutNG: Enabled
+
+Blink Heap Unified Garbage Collection: Enabled
+
+
+# Desktop Icon Properties
+Target: "C:\Program Files (x86)\Google\Chrome Dev\Application\chrome.exe" --enable-native-gpu-memory-buffers --disable-infobars

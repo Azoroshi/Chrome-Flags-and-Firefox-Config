@@ -14,6 +14,8 @@ breakpad.reportURL;
 
 browser.backspace_action;2
 
+browser.tabs.delayHidingAudioPlayingIconMS;1500
+
 datareporting.healthreport.infoURL;
 
 datareporting.healthreport.uploadEnabled;false

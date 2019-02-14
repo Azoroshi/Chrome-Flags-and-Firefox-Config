@@ -32,6 +32,8 @@ V8 Orinoco garbage collection features: Enabled
 
 GPU rasterization: Enabled
 
+WebGL 2.0 Compute: Enabled
+
 Zero-copy rasterizer: Enabled
 
 Number of raster threads: 4
@@ -61,6 +63,8 @@ Block tab-unders: Enabled
 Enable LayoutNG: Enabled
 
 Blink Heap Unified Garbage Collection: Enabled
+
+D3D11 Video Decoder: Enabled
 
 
 # Desktop/Taskbar Icon Properties

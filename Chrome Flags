@@ -6,15 +6,11 @@ These flags are from the Chrome Dev channel
 
 Override software rendering list: Enabled
 
-Enable draw occlusion: Enabled
-
 Negotiation with GCM cipher suites for SRTP in WebRTC: Enabled
 
 Negotiation with encrypted header extensions for SRTP in WebRTC: Enabled
 
 Anonymize local IPs exposed by WebRTC.: Enabled
-
-Force PNaCl Subzero: Enabled
 
 Smooth Scrolling: Enabled
 
@@ -32,15 +28,15 @@ V8 Orinoco garbage collection features: Enabled
 
 GPU rasterization: Enabled
 
+New password form parsing for filling passwords: Disabled
+
+New password form parsing for saving passwords: Disabled
+
 WebGL 2.0 Compute: Enabled
 
 Zero-copy rasterizer: Enabled
 
-Number of raster threads: 4
-
 New style notification: Disabled
-
-Memory coordinator: Enabled
 
 Reduce default 'referer' header granularity.: Enabled
 
@@ -52,11 +48,7 @@ FontCache scaling: Enabled
 
 NoState Prefetch: Enabled
 
-Custom-drawn Windows 10 Titlebar: Disabled
-
 Autoplay policy: Document user avtivation is required.
-
-Sound content setting: Disabled
 
 Block tab-unders: Enabled
 

@@ -14,8 +14,6 @@ Anonymize local IPs exposed by WebRTC.: Enabled
 
 Smooth Scrolling: Enabled
 
-Save Page as MHTML: Enabled
-
 Experimental QUIC protocol: Enabled
 
 WebAssembly baseline compiler: Enabled
@@ -27,6 +25,8 @@ Experimental enabled SharedArrayBuffer support in JavaScript.: Enabled
 V8 Orinoco garbage collection features: Enabled
 
 GPU rasterization: Enabled
+
+Out of process rasterization: Enabled
 
 New password form parsing for filling passwords: Disabled
 
@@ -42,8 +42,6 @@ Reduce default 'referer' header granularity.: Enabled
 
 Brotli Content-Encoding.: Enabled
 
-Automatic tab discarding: Disabled
-
 FontCache scaling: Enabled
 
 NoState Prefetch: Enabled
@@ -53,8 +51,6 @@ Autoplay policy: Document user avtivation is required.
 Block tab-unders: Enabled
 
 Enable LayoutNG: Enabled
-
-Blink Heap Unified Garbage Collection: Enabled
 
 D3D11 Video Decoder: Enabled
 

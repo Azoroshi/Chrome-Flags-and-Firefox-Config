@@ -48,8 +48,6 @@ NoState Prefetch: Enabled
 
 Autoplay policy: Document user avtivation is required.
 
-Block tab-unders: Enabled
-
 Enable LayoutNG: Enabled
 
 D3D11 Video Decoder: Enabled

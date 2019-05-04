@@ -8,8 +8,6 @@ Override software rendering list: Enabled
 
 Negotiation with GCM cipher suites for SRTP in WebRTC: Enabled
 
-Negotiation with encrypted header extensions for SRTP in WebRTC: Enabled
-
 Anonymize local IPs exposed by WebRTC.: Enabled
 
 Smooth Scrolling: Enabled
@@ -41,8 +39,6 @@ New style notification: Disabled
 Reduce default 'referer' header granularity.: Enabled
 
 Brotli Content-Encoding.: Enabled
-
-FontCache scaling: Enabled
 
 NoState Prefetch: Enabled
 

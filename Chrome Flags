@@ -16,6 +16,8 @@ Experimental QUIC protocol: Enabled
 
 WebAssembly baseline compiler: Enabled
 
+WebAssembly code garbage collection: Enabled
+
 WebAssembly threads support.: Enabled
 
 Experimental enabled SharedArrayBuffer support in JavaScript.: Enabled

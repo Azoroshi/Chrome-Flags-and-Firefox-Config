@@ -44,8 +44,6 @@ Brotli Content-Encoding.: Enabled
 
 NoState Prefetch: Enabled
 
-Autoplay policy: Document user avtivation is required.
-
 Enable LayoutNG: Enabled
 
 D3D11 Video Decoder: Enabled

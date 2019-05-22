@@ -22,8 +22,6 @@ WebAssembly threads support.: Enabled
 
 Experimental enabled SharedArrayBuffer support in JavaScript.: Enabled
 
-V8 Orinoco garbage collection features: Enabled
-
 GPU rasterization: Enabled
 
 Out of process rasterization: Enabled
@@ -39,10 +37,6 @@ Zero-copy rasterizer: Enabled
 New style notification: Disabled
 
 Reduce default 'referer' header granularity.: Enabled
-
-Brotli Content-Encoding.: Enabled
-
-NoState Prefetch: Enabled
 
 Enable LayoutNG: Enabled
 

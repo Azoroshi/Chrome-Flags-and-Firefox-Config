@@ -42,6 +42,8 @@ Enable LayoutNG: Enabled
 
 D3D11 Video Decoder: Enabled
 
+Use realtime priority thread for Audio Worklet: Enabled
+
 
 # Desktop/Taskbar Icon Properties
 Target: "C:\Program Files (x86)\Google\Chrome Dev\Application\chrome.exe" --enable-native-gpu-memory-buffers --disable-infobars

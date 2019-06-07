@@ -34,8 +34,6 @@ WebGL 2.0 Compute: Enabled
 
 Zero-copy rasterizer: Enabled
 
-New style notification: Disabled
-
 Reduce default 'referer' header granularity.: Enabled
 
 Enable LayoutNG: Enabled

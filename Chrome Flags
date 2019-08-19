@@ -16,6 +16,8 @@ Experimental QUIC protocol: Enabled
 
 WebAssembly baseline compiler: Enabled
 
+WebAssembly compiled module cache: Enabled
+
 WebAssembly code garbage collection: Enabled
 
 WebAssembly threads support.: Enabled
@@ -36,7 +38,15 @@ Zero-copy rasterizer: Enabled
 
 Reduce default 'referer' header granularity.: Enabled
 
+Password Import: Enabled
+
+Scrollable Tabstrip: Enabled
+
 Enable LayoutNG: Enabled
+
+Audio Focus Enforcement: Disabled
+
+Hardware Media Key Handling: Disabled
 
 D3D11 Video Decoder: Enabled
 

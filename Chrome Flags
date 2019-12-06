@@ -28,29 +28,35 @@ GPU rasterization: Enabled
 
 Out of process rasterization: Enabled
 
-New password form parsing for filling passwords: Disabled
-
-New password form parsing for saving passwords: Disabled
-
 WebGL 2.0 Compute: Enabled
 
 Zero-copy rasterizer: Enabled
 
 Reduce default 'referer' header granularity.: Enabled
 
-Password Import: Enabled
-
 Scrollable Tabstrip: Enabled
+
+Allow download resumption without strong validators: Enabled
+
+HarfBuzz PDF Subsetter: Enabled
 
 Enable LayoutNG: Enabled
 
-Audio Focus Enforcement: Disabled
+Experimental Productivity Features: Enabled
+
+Calculate window occlusion on Windows: Enabled
 
 Hardware Media Key Handling: Disabled
 
 D3D11 Video Decoder: Enabled
 
+Enable occlusion of web contents: Enabled
+
 Use realtime priority thread for Audio Worklet: Enabled
+
+Secure DNS lookups: Enabled
+
+Password Leak Detection: Enabled
 
 
 # Desktop/Taskbar Icon Properties
